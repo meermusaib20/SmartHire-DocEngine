@@ -169,7 +169,7 @@ Frontend integration with SmartHire
 
 👤 Author
 
-Mir Musaib
+Mir Musaib -
 B.Tech Computer Science & Engineering
 Final Year Project – SmartHire
 
@@ -186,3 +186,4 @@ This project is for academic and learning purposes.
 2. Paste the content above  
 3. Save  
 4. Commit:
+
