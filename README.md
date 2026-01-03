@@ -178,12 +178,3 @@ Final Year Project – SmartHire
 This project is for academic and learning purposes.
 
 
----
-
-## ✅ What to do now
-
-1. Open `README.md` in your project  
-2. Paste the content above  
-3. Save  
-4. Commit:
-
