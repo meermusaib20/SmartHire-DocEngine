@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv311/
+.env
+
+# Data & uploads
+data/uploads/
+data/outputs/
+
+# Editor
+.vscode/
